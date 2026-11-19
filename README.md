@@ -41,7 +41,7 @@ Aplikasi ini menerapkan konsep CRUD (*Create, Read, Update, Delete*) dengan tamp
 Berikut dokumentasi tampilan aplikasi Planora:
 
 ### 1. Halaman Utama (Dashboard)
-![Halaman Utama](screenshots/dashboard.png)
+![Halaman Utama](screenshots/tampilanutama.png)
 
 ### 2. Halaman Tambah Tugas
 ![Tambah Tugas](screenshots/tambahtugas.png)
@@ -52,6 +52,14 @@ Berikut dokumentasi tampilan aplikasi Planora:
 ### 4. Halaman Edit Tugas
 ![Edit Tugas](screenshots/edittugas.png)
 
-## 🎥 Video Demonstrasi
+### 5. Halaman Sesudah Edit Tugas
+![AfterEdit Tugas](screenshots/afteredit.png)
 
+### 6. Halaman Hapus Tugas
+![Hapus Tugas](screenshots/deletetugas.png)
+
+### 7. Halaman Sesudah Hapus Tugas
+![AfterHapus Tugas](screenshots/afterdelete.png)
+
+## 🎥 Video Demonstrasi
 https://youtu.be/oUqEkzGvnCQ
